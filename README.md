@@ -1,6 +1,6 @@
 # Koa VSCode Debug Template
 
-I created this minimal template to quickly scaffold a VSCode debug-able Koa environment from scratch.
+I created this minimal project template to quickly scaffold a VSCode debug-able Koa app from scratch.
 
 This template uses `nodemon` to restart the dev server when changes occur, and has some pre-built VSCode launch tasks to attach the built-in debugger to the `nodemon` process so that VSCode can hit breakpoints.
 
