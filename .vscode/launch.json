@@ -1,0 +1,9 @@
+{
+  "type": "node",
+  "request": "attach",
+  "name": "Launch & Attach",
+  "restart": true,
+  "localRoot": "${workspaceRoot}",
+  "remoteRoot": "${workspaceRoot}",
+  "preLaunchTask": "npm dev"
+}
