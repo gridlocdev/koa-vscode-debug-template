@@ -16,6 +16,9 @@ This template uses `nodemon` to restart the dev server when changes occur, and h
 3. Open the Integrated Terminal
 4. Run `npx degit gridlocdev/koa-vscode-debug-template <your-project-name>`
 5. Run  `code -r <your-project-name>`
-6. In the _Run and Debug_ sidebar menu, click the dropdown at the top 
-7. Select `Node.js`
-8. Select `Run Script: dev`
+6. Re-open the Integrated Terminal
+7. Run `npm install`
+8. Open the _Run and Debug_ sidebar tab
+9. Click the label _Show all automatic debug configurations_
+10. Select `Node.js`
+11. Select `Run Script: dev`
